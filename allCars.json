@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Lamborghini Model 1",
+        "picture": "https://static-01.daraz.com.bd/p/c07307e69187591189495fa3c5e648c2.jpg",
+        "price": 352000,
+        "rating": 4.5,
+        "brand": "Lamborghini"
+    },
+    {
+        "name": "Lamborghini Model 2",
+        "picture": "https://cdn.shopify.com/s/files/1/0081/4599/3809/collections/9671be1af1d7401b7963afc84d969e03.jpg?v=1643742297",
+        "price": 254000,
+        "rating": 3.8,
+        "brand": "Lamborghini"
+    },
+    {
+        "name": "Lamborghini Model 3",
+        "picture": "https://media.4rgos.it/s/Argos/9529276_R_SET?$Main768$&w=620&h=620",
+        "price": 450000,
+        "rating": 4.2,
+        "brand": "Lamborghini"
+    },
+    {
+        "name": "Lamborghini Model 4",
+        "picture": "https://i.ebayimg.com/images/g/RvMAAOSwfpVZL0uE/s-l500.jpg",
+        "price": 350000,
+        "rating": 4.7,
+        "brand": "Lamborghini"
+    },
+    {
+        "name": "Lamborghini Model 5",
+        "picture": "https://cdn.shopify.com/s/files/1/0575/5673/0040/products/Black-01_8d08b572-2749-419c-837b-6a736398dfb9_512x371.jpg?v=1627959546",
+        "price": 348000,
+        "rating": 4.0,
+        "brand": "Lamborghini"
+    },
+    {
+        "name": "Ferrari Model 1",
+        "picture": "https://images-cdn.ubuy.co.id/633aa4a16c851f12037f6447-sainsmart-jr-x-rastar-ferrari-toy-car.jpg",
+        "price": 400000,
+        "rating": 4.9,
+        "brand": "Ferrari"
+    },
+    {
+        "name": "Ferrari Model 2",
+        "picture": "https://m.media-amazon.com/images/I/61NbfN+fVXS.jpg",
+        "price": 322000,
+        "rating": 4.3,
+        "brand": "Ferrari"
+    },
+    {
+        "name": "Ferrari Model 3",
+        "picture": "https://images-na.ssl-images-amazon.com/images/I/61X-x3qb7hL.jpg",
+        "price": 433000,
+        "rating": 3.5,
+        "brand": "Ferrari"
+    },
+    {
+        "name": "Ferrari Model 4",
+        "picture": "https://media.4rgos.it/s/Argos/9219421_R_SET?$Main768$&w=620&h=620",
+        "price": 550000,
+        "rating": 4.6,
+        "brand": "Ferrari"
+    },
+    {
+        "name": "Bugatti Model 1",
+        "picture": "https://images-cdn.ubuy.com.sa/633ac8d6fcdbb331ed321531-rastar-rc-car-1-24-bugatti-veyron-16-4.jpg",
+        "price": 3145000,
+        "rating": 4.4,
+        "brand": "Bugatti"
+    },
+    {
+        "name": "Bugatti Model 2",
+        "picture": "https://static-01.daraz.com.bd/p/e15123196d0cfb3d549fd27991c71173.jpg",
+        "price": 5345000,
+        "rating": 4.4,
+        "brand": "Bugatti"
+    },
+    {
+        "name": "Bugatti Model 3",
+        "picture": "https://images-cdn.ubuy.co.in/633aefe562672b6d6d118420-bugatti-veyron-toy-car-1-32-alloy.jpg",
+        "price": 5345000,
+        "rating": 4.4,
+        "brand": "Bugatti"
+    }
+]

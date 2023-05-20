@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Police Car Model 1",
+        "picture": "https://static-01.daraz.com.bd/p/7e2e99e4e8b99096566e930357b9e347.jpg",
+        "price": 100,
+        "rating": 4.5,
+        "brand": "Mini Police Car"
+    },
+    {
+        "name": "Police Car Model 2",
+        "picture": "https://static-01.daraz.com.bd/p/857059eaabff2c715fe6edb7727c6855.jpg_720x720.jpg_.webp",
+        "price": 150,
+        "rating": 4.5,
+        "brand": "Mini Police Car"
+    },
+    {
+        "name": "Police Car Model 3",
+        "picture": "https://sc04.alicdn.com/kf/HTB1R6KmbkY2gK0jSZFgq6A5OFXa0.jpg",
+        "price": 300,
+        "rating": 4.5,
+        "brand": "Mini Police Car"
+    }
+]
